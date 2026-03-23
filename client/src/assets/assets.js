@@ -306,6 +306,190 @@ export const dummyShowsData = [
     vote_count: 12450,
     runtime: 135,
   },
+  {
+    _id: "990002",
+    id: 990002,
+    title: "Crimson Horizon",
+    overview:
+      "A former soldier turned smuggler is forced back into battle when a deadly conspiracy threatens to ignite a global war across continents.",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/3CxUndGhUcZdt1Zggjdb2HkLLQX.jpg",
+    genres: [
+      { id: 28, name: "Action" },
+      { id: 18, name: "Drama" },
+      { id: 53, name: "Thriller" },
+    ],
+    casts: dummyCastsData,
+    release_date: "2025-06-20",
+    original_language: "en",
+    tagline: "War never ends. It evolves.",
+    vote_average: 7.8,
+    vote_count: 9800,
+    runtime: 128,
+  },
+  {
+    _id: "990003",
+    id: 990003,
+    title: "Neon Rebellion",
+    overview:
+      "In a cyberpunk future ruled by corporations, a young hacker leads a rebellion to restore freedom and expose hidden truths.",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+    genres: [
+      { id: 878, name: "Science Fiction" },
+      { id: 28, name: "Action" },
+      { id: 80, name: "Crime" },
+    ],
+    casts: dummyCastsData,
+    release_date: "2025-11-05",
+    original_language: "en",
+    tagline: "Hack the system. Rewrite destiny.",
+    vote_average: 8.3,
+    vote_count: 15200,
+    runtime: 140,
+  },
+  {
+    _id: "990004",
+    id: 990004,
+    title: "The Last Orbit",
+    overview:
+      "An astronaut stranded on a dying space station must find a way back to Earth while uncovering a terrifying secret in deep space.",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/q719jXXEzOoYaps6babgKnONONX.jpg",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg",
+    genres: [
+      { id: 878, name: "Science Fiction" },
+      { id: 12, name: "Adventure" },
+      { id: 53, name: "Thriller" },
+    ],
+    casts: dummyCastsData,
+    release_date: "2025-08-01",
+    original_language: "en",
+    tagline: "Alone in space. Time is running out.",
+    vote_average: 8.0,
+    vote_count: 11050,
+    runtime: 132,
+  },
+  {
+    _id: "990005",
+    id: 990005,
+    title: "Echoes of Silence",
+    overview:
+      "A detective with a troubled past investigates a series of mysterious disappearances linked to a haunting secret society.",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/6EdKBYkB1ssgGjc249ud1L55o8d.jpg",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+    genres: [
+      { id: 9648, name: "Mystery" },
+      { id: 53, name: "Thriller" },
+      { id: 18, name: "Drama" },
+    ],
+    casts: dummyCastsData,
+    release_date: "2025-10-18",
+    original_language: "en",
+    tagline: "Some secrets refuse to stay buried.",
+    vote_average: 7.9,
+    vote_count: 8750,
+    runtime: 125,
+  },
+  {
+    _id: "990006",
+    id: 990006,
+    title: "Iron Pulse",
+    overview:
+      "A brilliant engineer creates a powerful exosuit, only to become the target of a shadow organization determined to weaponize his invention.",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/3z06C6h7b9G6xHn1E5d1e2dA4sG.jpg",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/xDMIl84Qo5Tsu62c9DGWhmPI67A.jpg",
+    genres: [
+      { id: 28, name: "Action" },
+      { id: 878, name: "Science Fiction" },
+      { id: 12, name: "Adventure" },
+    ],
+    casts: dummyCastsData,
+    release_date: "2025-07-11",
+    original_language: "en",
+    tagline: "Power comes with a price.",
+    vote_average: 7.7,
+    vote_count: 9100,
+    runtime: 130,
+  },
+  {
+    _id: "990007",
+    id: 990007,
+    title: "Frozen Ashes",
+    overview:
+      "In a frozen wasteland, survivors of a global catastrophe uncover a hidden facility that could either save humanity or destroy it forever.",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/5P8SmMzSNYikXpxil6BYzJ16611.jpg",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg",
+    genres: [
+      { id: 878, name: "Science Fiction" },
+      { id: 53, name: "Thriller" },
+      { id: 18, name: "Drama" },
+    ],
+    casts: dummyCastsData,
+    release_date: "2025-12-02",
+    original_language: "en",
+    tagline: "Hope lies beneath the ice.",
+    vote_average: 8.2,
+    vote_count: 13400,
+    runtime: 138,
+  },
+  {
+    _id: "990008",
+    id: 990008,
+    title: "Velocity Chase",
+    overview:
+      "A fearless getaway driver is pulled into a high-stakes chase across cities when he unknowingly transports a device worth billions.",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/4ZocdxnOO6q2UbdKye2wgofLFhB.jpg",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/2uSCHUsmzb6KkQPFSxBQ7bgfJLE.jpg",
+    genres: [
+      { id: 28, name: "Action" },
+      { id: 80, name: "Crime" },
+      { id: 53, name: "Thriller" },
+    ],
+    casts: dummyCastsData,
+    release_date: "2025-05-30",
+    original_language: "en",
+    tagline: "Speed is survival.",
+    vote_average: 7.6,
+    vote_count: 8200,
+    runtime: 122,
+  },
+  {
+    _id: "990009",
+    id: 990009,
+    title: "Eclipse Protocol",
+    overview:
+      "When satellites around the world begin to fail, a team of scientists discovers a hidden signal that could plunge Earth into darkness.",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/nNmJRkg8wWnRmzQDe2FwKbPIsJV.jpg",
+    genres: [
+      { id: 878, name: "Science Fiction" },
+      { id: 28, name: "Action" },
+      { id: 9648, name: "Mystery" },
+    ],
+    casts: dummyCastsData,
+    release_date: "2025-09-28",
+    original_language: "en",
+    tagline: "Darkness is coming.",
+    vote_average: 8.4,
+    vote_count: 15800,
+    runtime: 142,
+  },
 ];
 
 export const dummyDateTimeData = {
