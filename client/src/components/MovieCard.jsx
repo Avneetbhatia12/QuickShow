@@ -16,9 +16,10 @@ const MovieCard = ({movie}) => {
     <div className='flex items-center justify-between mt-4 pb-3 '>
         <button onClick={()=>{navigate(`/movies/${movie._id}`) ; scrollTo(0,0)}}
         className='px-4 py-2 text-xs bg-red-400 hover:bg-red-500 transition rounded-full font-medium cursor-pointer'>Buy tickets</button>
-        <p className='flex items-center gap-1 text-sm text-gray-400 mt-1 pr-1'>
-            <StarIcon className='w-4 h-4 text-red-400 fill-primary'/>{movie.vote_average.toFixed(1)}
-        </p>
+        <div className='flex items-center gap-1 text-sm text-gray-400 mt-1 pr-1'>
+            <StarIcon className='w-4 h-4 text-red-400 fill-red-500'/>{movie.vote_average.toFixed(1)} User Rating
+        </div>
+        
     </div>
     
     </div>
